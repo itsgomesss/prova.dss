@@ -1,0 +1,51 @@
+body{
+  background:Navy
+}
+.principal{
+  background:##DCDCDC
+}
+.titulo-principal{
+text-align: center;
+font-size: 50px;
+color: red
+}
+.titulo-principal2{
+  text-align:center;
+  color: blue
+}
+#missao{
+  font-size:20px;
+  color:#DCDCDC;
+  font-style: italic;
+}
+#missao2{
+  font-size: 20px;
+  color: #9afa87
+}
+#missao3{
+  font-size: 20px;
+  color:#9afa87;
+}
+.benefecios{
+  font-style: italic;
+  background: #9afa87;
+}
+.titulo3{
+  color: red;
+}
+.itens{
+  font-style: italic;
+}
+.titulo3{
+  background:#5fa651;
+  padding:20px
+}
+ul{
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+.benefecios2{
+  width: 50%;
+}
